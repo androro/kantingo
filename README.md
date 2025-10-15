@@ -34,10 +34,10 @@ Saat ini, aplikasi sudah memiliki alur pemesanan inti yang fungsional:
 ## 📸 Tampilan Aplikasi (Screenshot)
 
 **Contoh Tampilan Halaman Login:**
-![Contoh Tampilan Login](link-ke-screenshot-halaman-login-anda.png)
+![Contoh Tampilan Login](https://assets.drovsynn.my.id/kantingo/Screenshot_20250928_211732_Brave.png)
 
 **Contoh Tampilan Daftar Menu:**
-![Contoh Tampilan Menu](link-ke-screenshot-halaman-menu-anda.png)
+![Contoh Tampilan Menu](https://assets.drovsynn.my.id/kantingo/Screenshot_20250928_212458_Brave.png)
 
 
 ## 🛠️ Status Proyek & Rencana ke Depan
