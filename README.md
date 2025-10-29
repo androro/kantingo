@@ -29,7 +29,7 @@ Saat ini, aplikasi sudah memiliki alur pemesanan inti yang fungsional:
 
 * **Backend:** PHP
 * **Database:** MySQL
-* **Frontend:** HTML, CSS, JavaScript (jika Anda menggunakannya)
+* **Frontend:** HTML, CSS, JavaScript
 
 ## 📸 Tampilan Aplikasi (Screenshot)
 
