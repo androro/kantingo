@@ -1,53 +1,64 @@
 KantinGo - Aplikasi Pemesanan Kantin Mandiri (Canteen Ordering App)
 
-"Status Proyek: Discontinued Temporarily" (https://img.shields.io/badge/status-discontinued%20temporarily-orange)
+"Project Status" (https://img.shields.io/badge/status-discontinued%20temporarily-orange)
+"PHP" (https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 KantinGo adalah aplikasi berbasis web yang dirancang untuk mendigitalisasi dan menyederhanakan proses pemesanan di kantin sekolah. Proyek ini bertujuan untuk mengurangi antrean, meningkatkan efisiensi, dan memberikan pengalaman pemesanan yang lebih modern bagi siswa.
 
-✨ Fitur Utama (Yang Sudah Selesai)
+✨ Fitur Utama
 
-Saat ini, aplikasi telah memiliki alur pemesanan inti yang fungsional:
+Aplikasi telah memiliki alur pemesanan inti yang fungsional, meliputi:
 
-- 🔐 Autentikasi Pengguna:
-  
-  - Registrasi akun baru.
-  - Login pengguna.
-  - Fitur lupa/reset password.
+🔐 Autentikasi Pengguna
 
-- 🛒 Proses Pemesanan:
-  
-  - Tampilan daftar menu kantin.
-  - Menambahkan menu ke keranjang.
-  - Checkout dengan metode pembayaran tunai (Cash).
+- Registrasi akun baru.
+- Login pengguna.
+- Fitur lupa dan reset password.
 
-- 🧾 Manajemen Pesanan:
-  
-  - Generasi kode pengambilan pesanan unik.
-  - Halaman riwayat pesanan.
-  - Status pesanan: Pending dan Selesai.
+🛒 Proses Pemesanan
+
+- Menampilkan daftar menu kantin.
+- Menambahkan menu ke keranjang.
+- Checkout dengan metode pembayaran tunai (Cash).
+
+🧾 Manajemen Pesanan
+
+- Generasi kode pengambilan pesanan unik.
+- Halaman riwayat pesanan.
+- Status pesanan: Pending dan Selesai.
 
 🚀 Teknologi yang Digunakan
 
-- Backend: PHP
-- Database: MySQL
-- Frontend: HTML, CSS, JavaScript
+Teknologi| Penggunaan
+PHP| Backend
+MySQL| Database
+HTML| Struktur halaman
+CSS| Styling dan tampilan
+JavaScript| Interaktivitas
 
-📸 Tampilan Aplikasi (Screenshot)
+📸 Tampilan Aplikasi
 
-Contoh Tampilan Halaman Login:
+Halaman Login
 
-"Contoh Tampilan Login" (https://assets.drovsynn.my.id/kantingo/Screenshot_20250928_211732_Brave.png)
+"Login Screenshot" (https://assets.drovsynn.my.id/kantingo/Screenshot_20250928_211732_Brave.png)
 
-Contoh Tampilan Daftar Menu:
+Halaman Daftar Menu
 
-"Contoh Tampilan Menu" (https://assets.drovsynn.my.id/kantingo/Screenshot_20250928_212458_Brave.png)
+"Menu Screenshot" (https://assets.drovsynn.my.id/kantingo/Screenshot_20250928_212458_Brave.png)
 
-🛠️ Status Proyek
+📌 Status Proyek
 
-<badge color="warning">Discontinued Temporarily</badge>
+Discontinued Temporarily — Pengembangan Dihentikan Sementara
 
 Pengembangan KantinGo untuk sementara waktu dihentikan. Meskipun demikian, fitur utama aplikasi telah berhasil dikembangkan dan dapat menjadi fondasi untuk pengembangan selanjutnya.
 
 Belum ada jadwal pasti untuk melanjutkan proyek ini. Pengembangan mungkin akan kembali dilakukan di masa mendatang.
+
+📄 Lisensi
+
+Informasi mengenai lisensi proyek akan ditentukan kemudian.
+
+---
 
 Terima kasih telah mengunjungi repositori KantinGo!
