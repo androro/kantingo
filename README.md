@@ -1,52 +1,60 @@
-# KantinGo - Aplikasi Pemesanan Kantin Mandiri  canteen Ordering App
+# KantinGo - Aplikasi Pemesanan Kantin Mandiri (Canteen Ordering App)
 
-![Status Proyek: Dalam Pengembangan](https://img.shields.io/badge/status-work%20in%20progress-yellow)
+![Project Status](https://img.shields.io/badge/status-discontinued%20temporarily-orange)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 KantinGo adalah aplikasi berbasis web yang dirancang untuk mendigitalisasi dan menyederhanakan proses pemesanan di kantin sekolah. Proyek ini bertujuan untuk mengurangi antrean, meningkatkan efisiensi, dan memberikan pengalaman pemesanan yang lebih modern bagi siswa.
 
-## ✨ Fitur Utama (Yang Sudah Selesai)
+## ✨ Fitur Utama
 
-Saat ini, aplikasi sudah memiliki alur pemesanan inti yang fungsional:
+### 🔐 Autentikasi Pengguna
+- Registrasi akun baru.
+- Login pengguna.
+- Fitur lupa dan reset password.
 
-* **🔐 Autentikasi Pengguna:**
-    * Registrasi (Daftar) akun baru.
-    * Login pengguna yang aman.
-    * Fitur Lupa/Reset Password.
+### 🛒 Proses Pemesanan
+- Menampilkan daftar menu kantin.
+- Menambahkan menu ke keranjang.
+- Checkout dengan metode pembayaran tunai (Cash).
 
-* **🛒 Proses Pemesanan:**
-    * Tampilan daftar menu yang tersedia di kantin.
-    * Kemampuan untuk memilih menu dan menambahkannya ke keranjang.
-    * Proses checkout dengan metode pembayaran tunai (Cash).
-
-* **🧾 Manajemen Pesanan:**
-    * Generasi **Kode Pengambilan Pesanan** unik setelah checkout berhasil.
-    * Halaman **Riwayat Pesanan** untuk melacak status pesanan.
-    * Status pesanan yang jelas: **Pending** (Menunggu) dan **Selesai**.
+### 🧾 Manajemen Pesanan
+- Generasi kode pengambilan pesanan unik.
+- Halaman riwayat pesanan.
+- Status pesanan: **Pending** dan **Selesai**.
 
 ## 🚀 Teknologi yang Digunakan
 
-* **Backend:** PHP
-* **Database:** MySQL
-* **Frontend:** HTML, CSS, JavaScript
+| Teknologi | Penggunaan |
+|---|---|
+| PHP | Backend |
+| MySQL | Database |
+| HTML | Struktur halaman |
+| CSS | Styling dan tampilan |
+| JavaScript | Interaktivitas |
 
-## 📸 Tampilan Aplikasi (Screenshot)
+## 📸 Tampilan Aplikasi
 
-**Contoh Tampilan Halaman Login:**
-![Contoh Tampilan Login](https://assets.drovsynn.my.id/kantingo/Screenshot_20250928_211732_Brave.png)
+**Halaman Login**
 
-**Contoh Tampilan Daftar Menu:**
-![Contoh Tampilan Menu](https://assets.drovsynn.my.id/kantingo/Screenshot_20250928_212458_Brave.png)
+![Login Screenshot](https://assets.drovsynn.my.id/kantingo/Screenshot_20250928_211732_Brave.png)
 
+**Halaman Daftar Menu**
 
-## 🛠️ Status Proyek & Rencana ke Depan
+![Menu Screenshot](https://assets.drovsynn.my.id/kantingo/Screenshot_20250928_212458_Brave.png)
 
-Proyek ini saat ini berstatus **Work in Progress (Dalam Pengembangan)**. Alur utama pemesanan telah selesai, namun beberapa fitur lanjutan masih dalam tahap perencanaan dan pengembangan.
+## 📌 Status Proyek
 
-**Rencana Pengembangan Selanjutnya:**
-* [ ] Implementasi dashboard admin untuk manajemen menu dan pesanan.
-* [ ] Penambahan metode pembayaran digital (jika direncanakan).
-* [ ] Fitur notifikasi status pesanan.
+**Discontinued Temporarily — Pengembangan Dihentikan Sementara**
 
-Terima kasih telah mengunjungi repositori ini!
+Pengembangan KantinGo untuk sementara waktu dihentikan. Meskipun demikian, fitur utama aplikasi telah berhasil dikembangkan dan dapat menjadi fondasi untuk pengembangan selanjutnya.
+
+Belum ada jadwal pasti untuk melanjutkan proyek ini. Pengembangan mungkin akan kembali dilakukan di masa mendatang.
+
+## 📄 Lisensi
+
+Informasi mengenai lisensi proyek akan ditentukan kemudian.
+
+---
+
+Terima kasih telah mengunjungi repositori **KantinGo**!
